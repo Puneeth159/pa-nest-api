@@ -10,8 +10,9 @@ export class AppController {
     return this.appService.getHello();
   }
   
-  @Get('/about')
-  getAbout(): string {
-    return this.appService.getAbout();
-  }
+  
+@Get('/about')
+getAbout(): string {
+  return this.appService.getAbout();
+}
 }
