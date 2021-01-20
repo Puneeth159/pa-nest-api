@@ -21,6 +21,10 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+  
+## Heroku app
+
+https://pa-nest-api.herokuapp.com/
 
 ## Description
 
@@ -67,6 +71,12 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
+
+## Links
+
+- [Github Repo](https://github.com/Puneeth159/pa-nest-api)
+
+- [Heroku app](https://pa-nest-api.herokuapp.com/)
 
 ## License
 
